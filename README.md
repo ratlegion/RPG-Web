@@ -1,2 +1,2 @@
 # !!This is unfinished!!
-I'm still working on this this project, and I can't confirm if it will work.
+This is a small project that attempts to create an rpg maker like experience with just one js file.
